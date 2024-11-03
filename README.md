@@ -14,6 +14,9 @@ The Atliq Sales Dashboard is an interactive Power BI dashboard developed to anal
 ## Project Overview
 
 The objective of this project is to create a comprehensive sales dashboard that enables Atliq's sales and marketing teams to quickly access and analyze essential KPIs. 
+## Project Demo
+https://github.com/user-attachments/assets/e3faf037-7cc0-43bc-b8d7-aa7d15539d45
+
 
 ## Key Metrics and Features
 
